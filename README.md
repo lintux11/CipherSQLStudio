@@ -91,7 +91,7 @@ If requested, the backend calls the LLM API to generate a hint
 Important Notes
 Assignments and sample data are pre-configured by the administrator
 Users cannot modify database schemas
-SQL execution is sandboxed to ensure safety
+SQL execution is sandboxed to ensure safety of the model
 The LLM provides hints only, not complete SQL solutions
 
 Author
